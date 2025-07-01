@@ -1,4 +1,4 @@
-# GymWelcomeLoopView
+# GymWelcomeLoopView + SwiftUI
 Looping video on the onboarding screen
 
 
